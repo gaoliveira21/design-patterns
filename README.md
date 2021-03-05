@@ -6,4 +6,5 @@ Implementação em TypeScript dos exemplos apresentados no curso [Padrões de Pr
 
 ## Padrões implementados
 
-- [x] Factory
+- [x] Factory Method
+- [x] Abstract Factory
