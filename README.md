@@ -8,3 +8,4 @@ Implementação em TypeScript dos exemplos apresentados no curso [Padrões de Pr
 
 - [x] Factory Method
 - [x] Abstract Factory
+- [x] Singleton
