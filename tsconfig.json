@@ -17,10 +17,6 @@
     "noImplicitReturns": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
-    "baseUrl": ".",
-    "rootDirs": [
-      "./src",
-    ],
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true
   },
