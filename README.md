@@ -6,6 +6,10 @@ Implementação em TypeScript dos exemplos apresentados no curso [Padrões de Pr
 
 ## Padrões implementados
 
+### :hammer: Padrões criacionais
+
 - [x] Factory Method
 - [x] Abstract Factory
 - [x] Singleton
+- [x] Builder
+- [ ] Prototype
