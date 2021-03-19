@@ -12,4 +12,4 @@ Implementação em TypeScript dos exemplos apresentados no curso [Padrões de Pr
 - [x] Abstract Factory
 - [x] Singleton
 - [x] Builder
-- [ ] Prototype
+- [x] Prototype
