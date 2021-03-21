@@ -13,3 +13,9 @@ Implementação em TypeScript dos exemplos apresentados no curso [Padrões de Pr
 - [x] Singleton
 - [x] Builder
 - [x] Prototype
+
+---
+
+### :bank: Padrões estruturais
+
+- [x] Adapter
