@@ -19,4 +19,4 @@ Implementação em TypeScript dos exemplos apresentados no curso [Padrões de Pr
 ### :bank: Padrões estruturais
 
 - [x] Adapter
-- [ ] Bridge
+- [x] Bridge
