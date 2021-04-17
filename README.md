@@ -21,3 +21,4 @@ Implementação em TypeScript dos exemplos apresentados no curso [Padrões de Pr
 - [x] Adapter
 - [x] Bridge
 - [x] Decorator
+- [x] Facade
