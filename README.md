@@ -22,3 +22,4 @@ Implementação em TypeScript dos exemplos apresentados no curso [Padrões de Pr
 - [x] Bridge
 - [x] Decorator
 - [x] Facade
+- [x] Flyweight
